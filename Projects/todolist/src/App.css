@@ -1,0 +1,43 @@
+body{
+  background-color: aqua;
+  justify-content: center;
+}
+
+.to-do {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:tan;
+  border-color:black;
+  border-style: solid;
+  padding: 10px;
+}
+
+h1 {
+  color: black;
+  background-color:silver;
+  margin: 10px;
+}
+
+input{
+  padding: 6px;
+}
+
+ol{
+  font-weight: bolder;
+}
+
+.add_button{
+  background-color:green
+}
+
+.delete_button{
+  margin: 2px;
+  background-color: orangered;
+}
+
+.add_button, .delete_button{
+  margin-left:5px;
+  border-color:black;
+  padding: 5px;
+}
