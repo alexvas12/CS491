@@ -85,7 +85,7 @@ function App() {
     return(
       <div>
         <h2 className='text-center fw-bold'>{hobby.name}</h2>
-        <div className="m-2">{img_helper({src: hobby.imgSrc, alt: hobby.name, width: 800})}
+        <div className="m-2">{img_helper({src: hobby.imgSrc, alt: hobby.name, width:300, height:200})}
         <p className="m-2">{hobby.description}</p></div>
         <button className="btn btn-primary m-2" onClick={() => navigate(-1)}>Back to Hobbies</button>
       </div>
