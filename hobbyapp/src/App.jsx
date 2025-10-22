@@ -6,13 +6,13 @@ const hobbies = [
 {
     id: 1,
     name: 'Hanging out with family',
-    description: 'A family is sitting on a mountiontop overlooking the horizon.',
+    description: 'I enjoy hanging out and doing a variety of different activities with my family when I have free time.',
     imgSrc:"https://images.unsplash.com/photo-1559054109-82d938dac629?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGZhbWlseXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=400"
   },
   {
     id: 2,
     name: 'Watching Movies',
-    description: 'I enjoy watching a variety of movies. Some of the franchises I enjoy watching are Fast and Furious and Mission Impossible.',
+    description: 'I enjoy watching a different movies. Some of the franchises I enjoy watching are Fast and Furious and Mission Impossible.',
     imgSrc:"https://images.unsplash.com/photo-1512070679279-8988d32161be?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2F0Y2hpbmclMjBtb3ZpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=400"
   },
   {
